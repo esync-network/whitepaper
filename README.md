@@ -9,6 +9,7 @@ The whitepaper is subject to be changed. Updates will be published in this repos
 | title               | version | date       | description                 |
 |---------------------|---------|------------|-----------------------------|
 | eCredits Whitepaper | 1.0     | 2021-08-03 | first version of whitepaper |
+| eCredits Whitepaper | 1.01    | 2021-08-03 | fix typos and others        |
 
 
 **[Download Whitepaper.pdf](whitepaper.pdf)**
