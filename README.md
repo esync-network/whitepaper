@@ -17,7 +17,7 @@ Updates will be published in this repository regularly.
 | eCredits Whitepaper | 1.0     | 2021-08-03 | first version of whitepaper     |
 | eCredits Whitepaper | 1.01    | 2021-08-03 | fix typos and others            |
 | eCredits Whitepaper | 2.0     | 2021-11-17 | restructure and content changes |
-| eSync Whitepaper    | 3.0     | 2024-03-11 | Introducing evolved chain       |
+| eSync Whitepaper    | 1.0     | 2024-03-28 | Introducing evolved chain       |
 
 
 **[Download Whitepaper](eSync-whitepaper.pdf)**
